@@ -8,7 +8,7 @@ body {
     color: #39a6b2;
     font-family: Helvetica, Arial, sans-serif;
 }
-
+/*styles for the header*/
 header {
     padding: 20px 35px;
     background-color: #39a6b2;
@@ -29,7 +29,7 @@ header a {
 
 header nav {
     float: right;
-    margin: -10px 0;
+    margin: 7px 0;
 }
 
 header nav ul li {
@@ -41,7 +41,7 @@ header nav ul li a {
     font-weight: lighter;
     font-size: 22px;
 }
-
+/*footer styles*/
 footer {
     background-color: #fce138;
     width: 100%;
@@ -69,6 +69,7 @@ section  {
     padding: 60px;
 }
 
+/*start of hero styles*/
 .hero {
     background-image: url(../images/hero-bg.jpg);
     height: 600px;
